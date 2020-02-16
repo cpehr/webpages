@@ -6,15 +6,17 @@
  *Description: Webpages Independent Assignment
  */
  
-#professional {
-    max-width: 250px;
-    max-height: 300px;
+img {
+	border: 2px solid #09CB00;
+    max-width: 200px;
+    max-height: 250px;
 }
 
-.class {
-    property: value;
+body {
+    background-color: #FFE1A4;
 }
 
-#id {
-    property:value;
+table {
+    border:3px solid #000000;
 }
+
